@@ -1,0 +1,1819 @@
+{
+  "meta": {
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      }
+    ],
+    "filters": [],
+    "panels": [
+      "tree"
+    ],
+    "updated": "2021-01-26"
+  },
+  "tree": {
+    "branch_attrs": {},
+    "children": [
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S2895/2020",
+                    "node_attrs": {
+                      "div": 0.0005731247154675549,
+                      "num_date": {
+                        "value": 2020.75
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S2913/2020",
+                    "node_attrs": {
+                      "div": 0.0006765707463093277,
+                      "num_date": {
+                        "value": 2020.7609289617487
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000011",
+                "node_attrs": {
+                  "div": 0.0003016695322366461,
+                  "num_date": {
+                    "value": 2019.5052983796015
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3274/2020",
+                    "node_attrs": {
+                      "div": 0.0004375282786622591,
+                      "num_date": {
+                        "value": 2020.8319672131147
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "hCoV-19/USA/WA-S3296/2020",
+                        "node_attrs": {
+                          "div": 0.0004375282786622591,
+                          "num_date": {
+                            "value": 2020.8647540983607
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3294/2020",
+                            "node_attrs": {
+                              "div": 0.0004375282786622591,
+                              "num_date": {
+                                "value": 2020.853825136612
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "hCoV-19/USA/WA-S3285/2020",
+                                "node_attrs": {
+                                  "div": 0.0004375282786622591,
+                                  "num_date": {
+                                    "value": 2020.8456284153006
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "hCoV-19/USA/WA-S3278/2020",
+                                "node_attrs": {
+                                  "div": 0.0004375282786622591,
+                                  "num_date": {
+                                    "value": 2020.8401639344263
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000008",
+                            "node_attrs": {
+                              "div": 0.00043752827866225903,
+                              "num_date": {
+                                "value": 2020.7784505469945
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000007",
+                        "node_attrs": {
+                          "div": 0.00043752827866225903,
+                          "num_date": {
+                            "value": 2020.7784505469945
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000006",
+                    "node_attrs": {
+                      "div": 0.00043752827866225903,
+                      "num_date": {
+                        "value": 2020.7784505469945
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000012",
+                "node_attrs": {
+                  "div": 0.00043752827866225903,
+                  "num_date": {
+                    "value": 2020.7784505469945
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000010",
+            "node_attrs": {
+              "div": 0.00016771087504909642,
+              "num_date": {
+                "value": 2019.1421933843449
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3283/2020",
+                    "node_attrs": {
+                      "div": 0.0004722501099812259,
+                      "num_date": {
+                        "value": 2020.8456284153006
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "hCoV-19/USA/WA-S3307/2020",
+                        "node_attrs": {
+                          "div": 0.00047275129536810025,
+                          "num_date": {
+                            "value": 2020.8756830601094
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3295/2020",
+                            "node_attrs": {
+                              "div": 0.0004387943708206334,
+                              "num_date": {
+                                "value": 2020.8592896174864
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3302/2020",
+                            "node_attrs": {
+                              "div": 0.0004044136625568642,
+                              "num_date": {
+                                "value": 2020.870218579235
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000015",
+                        "node_attrs": {
+                          "div": 0.0001338490056832809,
+                          "num_date": {
+                            "value": 2019.0042431703291
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000014",
+                    "node_attrs": {
+                      "div": 0.0001338490056832809,
+                      "num_date": {
+                        "value": 2019.0042431703291
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000013",
+                "node_attrs": {
+                  "div": 0.0001338490056832809,
+                  "num_date": {
+                    "value": 2019.0042431703291
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3308/2020",
+                    "node_attrs": {
+                      "div": 0.000641600075624692,
+                      "num_date": {
+                        "value": 2020.8784153005465
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3303/2020",
+                    "node_attrs": {
+                      "div": 0.0006800400629323809,
+                      "num_date": {
+                        "value": 2020.870218579235
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3256/2020",
+                            "node_attrs": {
+                              "div": 0.00040173219366354665,
+                              "num_date": {
+                                "value": 2020.785519125683
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3252/2020",
+                            "node_attrs": {
+                              "div": 0.00040173219366354665,
+                              "num_date": {
+                                "value": 2020.7773224043715
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000000",
+                        "node_attrs": {
+                          "div": 0.0004017321936635466,
+                          "num_date": {
+                            "value": 2020.757992964751
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3299/2020",
+                            "node_attrs": {
+                              "div": 0.00046914515053910464,
+                              "num_date": {
+                                "value": 2020.8647540983607
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3300/2020",
+                            "node_attrs": {
+                              "div": 0.00040169031952503963,
+                              "num_date": {
+                                "value": 2020.8674863387978
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000002",
+                        "node_attrs": {
+                          "div": 0.0004016903195250396,
+                          "num_date": {
+                            "value": 2020.7750953778075
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000001",
+                    "node_attrs": {
+                      "div": 0.0003347922889745088,
+                      "num_date": {
+                        "value": 2020.3676437591018
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000003",
+                "node_attrs": {
+                  "div": 0.0001672853117863392,
+                  "num_date": {
+                    "value": 2019.0891156509904
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000005",
+            "node_attrs": {
+              "div": 0.0001338490056832809,
+              "num_date": {
+                "value": 2019.0042431703291
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000009",
+        "node_attrs": {
+          "div": 6.692993828186298e-05,
+          "num_date": {
+            "value": 2018.8742442810392
+          }
+        }
+      },
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "name": "hCoV-19/USA/WA-S3293/2020",
+                "node_attrs": {
+                  "div": 0.0003725522763240283,
+                  "num_date": {
+                    "value": 2020.853825136612
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S2879/2020",
+                    "node_attrs": {
+                      "div": 0.0003714651695512739,
+                      "num_date": {
+                        "value": 2020.7390710382513
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3290/2020",
+                    "node_attrs": {
+                      "div": 0.0002357427388041892,
+                      "num_date": {
+                        "value": 2020.8483606557377
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000018",
+                "node_attrs": {
+                  "div": 6.700870090558374e-05,
+                  "num_date": {
+                    "value": 2019.3294678898048
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000022",
+            "node_attrs": {
+              "div": 4.033008779117005e-22,
+              "num_date": {
+                "value": 2018.7893675091002
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S2896/2020",
+                    "node_attrs": {
+                      "div": 0.00043740623615012825,
+                      "num_date": {
+                        "value": 2020.75
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3297/2020",
+                    "node_attrs": {
+                      "div": 0.0005385986842750583,
+                      "num_date": {
+                        "value": 2020.8647540983607
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000020",
+                "node_attrs": {
+                  "div": 0.00040370376618017366,
+                  "num_date": {
+                    "value": 2020.3853828451108
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3248/2020",
+                    "node_attrs": {
+                      "div": 0.0005730290173609487,
+                      "num_date": {
+                        "value": 2020.7718579234972
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "hCoV-19/USA/WA-S3305/2020",
+                    "node_attrs": {
+                      "div": 0.0004371458111989432,
+                      "num_date": {
+                        "value": 2020.870218579235
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "hCoV-19/USA/WA-S2902/2020",
+                        "node_attrs": {
+                          "div": 0.0004400572410398156,
+                          "num_date": {
+                            "value": 2020.7554644808743
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "hCoV-19/USA/WA-S3304/2020",
+                            "node_attrs": {
+                              "div": 0.0005702400527991591,
+                              "num_date": {
+                                "value": 2020.872950819672
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "hCoV-19/USA/WA-S3291/2020",
+                                "node_attrs": {
+                                  "div": 0.0005028074706612118,
+                                  "num_date": {
+                                    "value": 2020.8510928961748
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3280/2020",
+                                    "node_attrs": {
+                                      "div": 0.0005028074706612118,
+                                      "num_date": {
+                                        "value": 2020.8401639344263
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3281/2020",
+                                    "node_attrs": {
+                                      "div": 0.0005028074706612118,
+                                      "num_date": {
+                                        "value": 2020.8428961748634
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000026",
+                                "node_attrs": {
+                                  "div": 0.0005028074706612117,
+                                  "num_date": {
+                                    "value": 2020.7740133211755
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000025",
+                            "node_attrs": {
+                              "div": 0.0005028074706612117,
+                              "num_date": {
+                                "value": 2020.7740133211755
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000024",
+                        "node_attrs": {
+                          "div": 0.0005028074706612117,
+                          "num_date": {
+                            "value": 2020.772764391283
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000023",
+                    "node_attrs": {
+                      "div": 0.00030138442024164956,
+                      "num_date": {
+                        "value": 2019.9054102238806
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "hCoV-19/USA/WA-S3309/2020",
+                        "node_attrs": {
+                          "div": 0.00047092893423220317,
+                          "num_date": {
+                            "value": 2020.9084699453551
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "hCoV-19/USA/WA-S2912/2020",
+                        "node_attrs": {
+                          "div": 0.0003706462380154383,
+                          "num_date": {
+                            "value": 2020.7609289617487
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "hCoV-19/USA/WA-S3301/2020",
+                        "node_attrs": {
+                          "div": 0.0004704032193825862,
+                          "num_date": {
+                            "value": 2020.8674863387978
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3240/2020",
+                                    "node_attrs": {
+                                      "div": 0.0004690861355813125,
+                                      "num_date": {
+                                        "value": 2020.7636612021859
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3245/2020",
+                                    "node_attrs": {
+                                      "div": 0.0004354023468068817,
+                                      "num_date": {
+                                        "value": 2020.76912568306
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S2914/2020",
+                                    "node_attrs": {
+                                      "div": 0.00046914185654857996,
+                                      "num_date": {
+                                        "value": 2020.7609289617487
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000041",
+                                "node_attrs": {
+                                  "div": 0.00043540234680688165,
+                                  "num_date": {
+                                    "value": 2020.7435729215608
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3265/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.801912568306
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3260/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.7937158469945
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000035",
+                                        "node_attrs": {
+                                          "div": 0.00040196643885221457,
+                                          "num_date": {
+                                            "value": 2020.7623999524915
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3257/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.7882513661202
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3258/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.7882513661202
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000036",
+                                        "node_attrs": {
+                                          "div": 0.00040196643885221457,
+                                          "num_date": {
+                                            "value": 2020.7495924797179
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000034",
+                                    "node_attrs": {
+                                      "div": 0.00040196643885221457,
+                                      "num_date": {
+                                        "value": 2020.7495924797179
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3243/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.766393442623
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3239/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.7636612021859
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000038",
+                                        "node_attrs": {
+                                          "div": 0.00040196643885221457,
+                                          "num_date": {
+                                            "value": 2020.745621949384
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S2903/2020",
+                                            "node_attrs": {
+                                              "div": 0.00040196643885221457,
+                                              "num_date": {
+                                                "value": 2020.7554644808743
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S2888/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004019664388522146,
+                                              "num_date": {
+                                                "value": 2020.75
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000039",
+                                        "node_attrs": {
+                                          "div": 0.00040196643885221457,
+                                          "num_date": {
+                                            "value": 2020.7500000071614
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000037",
+                                    "node_attrs": {
+                                      "div": 0.00040196643885221457,
+                                      "num_date": {
+                                        "value": 2020.7401714748994
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000033",
+                                "node_attrs": {
+                                  "div": 0.00040196643885221457,
+                                  "num_date": {
+                                    "value": 2020.7268279929642
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3270/2020",
+                                    "node_attrs": {
+                                      "div": 0.0004691914701474496,
+                                      "num_date": {
+                                        "value": 2020.818306010929
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3271/2020",
+                                    "node_attrs": {
+                                      "div": 0.0004690885073880028,
+                                      "num_date": {
+                                        "value": 2020.818306010929
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "hCoV-19/USA/WA-S3262/2020",
+                                        "node_attrs": {
+                                          "div": 0.0004354023468068817,
+                                          "num_date": {
+                                            "value": 2020.799180327869
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3288/2020",
+                                            "node_attrs": {
+                                              "div": 0.0004354023468068817,
+                                              "num_date": {
+                                                "value": 2020.8483606557377
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3292/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0004354023468068817,
+                                                  "num_date": {
+                                                    "value": 2020.8510928961748
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "hCoV-19/USA/WA-S3286/2020",
+                                                    "node_attrs": {
+                                                      "div": 0.0004354023468068817,
+                                                      "num_date": {
+                                                        "value": 2020.8456284153006
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "hCoV-19/USA/WA-S3284/2020",
+                                                        "node_attrs": {
+                                                          "div": 0.0004354023468068817,
+                                                          "num_date": {
+                                                            "value": 2020.8456284153006
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "hCoV-19/USA/WA-S3276/2020",
+                                                            "node_attrs": {
+                                                              "div": 0.0004354023468068817,
+                                                              "num_date": {
+                                                                "value": 2020.8401639344263
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "hCoV-19/USA/WA-S3269/2020",
+                                                                "node_attrs": {
+                                                                  "div": 0.0004354023468068817,
+                                                                  "num_date": {
+                                                                    "value": 2020.8101092896175
+                                                                  }
+                                                                }
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "children": [
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "name": "hCoV-19/USA/WA-S3268/2020",
+                                                                    "node_attrs": {
+                                                                      "div": 0.0004354023468068817,
+                                                                      "num_date": {
+                                                                        "value": 2020.8073770491803
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "children": [
+                                                                      {
+                                                                        "branch_attrs": {},
+                                                                        "name": "hCoV-19/USA/WA-S3267/2020",
+                                                                        "node_attrs": {
+                                                                          "div": 0.0004354023468068817,
+                                                                          "num_date": {
+                                                                            "value": 2020.8073770491803
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      {
+                                                                        "branch_attrs": {},
+                                                                        "children": [
+                                                                          {
+                                                                            "branch_attrs": {},
+                                                                            "name": "hCoV-19/USA/WA-S3264/2020",
+                                                                            "node_attrs": {
+                                                                              "div": 0.0004354023468068817,
+                                                                              "num_date": {
+                                                                                "value": 2020.801912568306
+                                                                              }
+                                                                            }
+                                                                          },
+                                                                          {
+                                                                            "branch_attrs": {},
+                                                                            "children": [
+                                                                              {
+                                                                                "branch_attrs": {},
+                                                                                "name": "hCoV-19/USA/WA-S3250/2020",
+                                                                                "node_attrs": {
+                                                                                  "div": 0.0004354023468068817,
+                                                                                  "num_date": {
+                                                                                    "value": 2020.7745901639344
+                                                                                  }
+                                                                                }
+                                                                              },
+                                                                              {
+                                                                                "branch_attrs": {},
+                                                                                "name": "hCoV-19/USA/WA-S3272/2020",
+                                                                                "node_attrs": {
+                                                                                  "div": 0.0004354023468068817,
+                                                                                  "num_date": {
+                                                                                    "value": 2020.8237704918033
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "name": "NODE_0000053",
+                                                                            "node_attrs": {
+                                                                              "div": 0.00043540234680688165,
+                                                                              "num_date": {
+                                                                                "value": 2020.7661082111936
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        ],
+                                                                        "name": "NODE_0000052",
+                                                                        "node_attrs": {
+                                                                          "div": 0.00043540234680688165,
+                                                                          "num_date": {
+                                                                            "value": 2020.755505761316
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    ],
+                                                                    "name": "NODE_0000051",
+                                                                    "node_attrs": {
+                                                                      "div": 0.00043540234680688165,
+                                                                      "num_date": {
+                                                                        "value": 2020.745166213554
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                ],
+                                                                "name": "NODE_0000050",
+                                                                "node_attrs": {
+                                                                  "div": 0.00043540234680688165,
+                                                                  "num_date": {
+                                                                    "value": 2020.7345695315798
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": "NODE_0000049",
+                                                            "node_attrs": {
+                                                              "div": 0.00043540234680688165,
+                                                              "num_date": {
+                                                                "value": 2020.7235685951935
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": "NODE_0000048",
+                                                        "node_attrs": {
+                                                          "div": 0.00043540234680688165,
+                                                          "num_date": {
+                                                            "value": 2020.7124854375706
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": "NODE_0000047",
+                                                    "node_attrs": {
+                                                      "div": 0.00043540234680688165,
+                                                      "num_date": {
+                                                        "value": 2020.7006023831411
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000046",
+                                                "node_attrs": {
+                                                  "div": 0.00043540234680688165,
+                                                  "num_date": {
+                                                    "value": 2020.6881313654658
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000045",
+                                            "node_attrs": {
+                                              "div": 0.00043540234680688165,
+                                              "num_date": {
+                                                "value": 2020.6761150887162
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000044",
+                                        "node_attrs": {
+                                          "div": 0.00043540234680688165,
+                                          "num_date": {
+                                            "value": 2020.6636034269432
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000042",
+                                    "node_attrs": {
+                                      "div": 0.00043540234680688165,
+                                      "num_date": {
+                                        "value": 2020.6509406307564
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000043",
+                                "node_attrs": {
+                                  "div": 0.00043540234680688165,
+                                  "num_date": {
+                                    "value": 2020.639090220422
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000032",
+                            "node_attrs": {
+                              "div": 0.00040196643885221457,
+                              "num_date": {
+                                "value": 2020.5227370229081
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "hCoV-19/USA/WA-S2905/2020",
+                                "node_attrs": {
+                                  "div": 0.0005366590786381663,
+                                  "num_date": {
+                                    "value": 2020.7581967213114
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "hCoV-19/USA/WA-S2899/2020",
+                                "node_attrs": {
+                                  "div": 0.000503082263306257,
+                                  "num_date": {
+                                    "value": 2020.7527322404371
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S2881/2020",
+                                    "node_attrs": {
+                                      "div": 0.0005373213111368729,
+                                      "num_date": {
+                                        "value": 2020.7418032786886
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "hCoV-19/USA/WA-S3277/2020",
+                                    "node_attrs": {
+                                      "div": 0.0005364943864961596,
+                                      "num_date": {
+                                        "value": 2020.8401639344263
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "hCoV-19/USA/WA-S3275/2020",
+                                        "node_attrs": {
+                                          "div": 0.000536094910149312,
+                                          "num_date": {
+                                            "value": 2020.8346994535518
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S3298/2020",
+                                            "node_attrs": {
+                                              "div": 0.000536094910149312,
+                                              "num_date": {
+                                                "value": 2020.8647540983607
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3289/2020",
+                                                "node_attrs": {
+                                                  "div": 0.000536094910149312,
+                                                  "num_date": {
+                                                    "value": 2020.8483606557377
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "hCoV-19/USA/WA-S3282/2020",
+                                                    "node_attrs": {
+                                                      "div": 0.000536094910149312,
+                                                      "num_date": {
+                                                        "value": 2020.8428961748634
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "hCoV-19/USA/WA-S3287/2020",
+                                                    "node_attrs": {
+                                                      "div": 0.000536094910149312,
+                                                      "num_date": {
+                                                        "value": 2020.8456284153006
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000059",
+                                                "node_attrs": {
+                                                  "div": 0.0005360949101493119,
+                                                  "num_date": {
+                                                    "value": 2020.7796256731294
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000058",
+                                            "node_attrs": {
+                                              "div": 0.0005360949101493119,
+                                              "num_date": {
+                                                "value": 2020.7796256731294
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000057",
+                                        "node_attrs": {
+                                          "div": 0.0005360949101493119,
+                                          "num_date": {
+                                            "value": 2020.7796256731294
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000083",
+                                    "node_attrs": {
+                                      "div": 0.0005360949101493119,
+                                      "num_date": {
+                                        "value": 2020.7796256731294
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3259/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394108,
+                                                  "num_date": {
+                                                    "value": 2020.7909836065573
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2901/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394107,
+                                                  "num_date": {
+                                                    "value": 2020.7527322404371
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000062",
+                                            "node_attrs": {
+                                              "div": 0.0005026583262394107,
+                                              "num_date": {
+                                                "value": 2020.7527322475985
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3266/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394108,
+                                                  "num_date": {
+                                                    "value": 2020.801912568306
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2897/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394107,
+                                                  "num_date": {
+                                                    "value": 2020.7527322404371
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000063",
+                                            "node_attrs": {
+                                              "div": 0.0005026583262394107,
+                                              "num_date": {
+                                                "value": 2020.7527322475985
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000061",
+                                        "node_attrs": {
+                                          "div": 0.0005026583262394107,
+                                          "num_date": {
+                                            "value": 2020.7429037153365
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3273/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394108,
+                                                  "num_date": {
+                                                    "value": 2020.8319672131147
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2883/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394107,
+                                                  "num_date": {
+                                                    "value": 2020.7418032786886
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000065",
+                                            "node_attrs": {
+                                              "div": 0.0005026583262394107,
+                                              "num_date": {
+                                                "value": 2020.74180328585
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3279/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394108,
+                                                  "num_date": {
+                                                    "value": 2020.8401639344263
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2882/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0005026583262394107,
+                                                  "num_date": {
+                                                    "value": 2020.7418032786886
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000066",
+                                            "node_attrs": {
+                                              "div": 0.0005026583262394107,
+                                              "num_date": {
+                                                "value": 2020.74180328585
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000064",
+                                        "node_attrs": {
+                                          "div": 0.0005026583262394107,
+                                          "num_date": {
+                                            "value": 2020.731974753588
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000060",
+                                    "node_attrs": {
+                                      "div": 0.0005026583262394107,
+                                      "num_date": {
+                                        "value": 2020.7186755715563
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000073",
+                                "node_attrs": {
+                                  "div": 0.0005026583262394107,
+                                  "num_date": {
+                                    "value": 2020.6903035391058
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "hCoV-19/USA/WA-S2889/2020",
+                                            "node_attrs": {
+                                              "div": 0.00046921128166125923,
+                                              "num_date": {
+                                                "value": 2020.75
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3254/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.785519125683
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3253/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.782786885246
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000070",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.7619276749535
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000069",
+                                        "node_attrs": {
+                                          "div": 0.0004692112816612592,
+                                          "num_date": {
+                                            "value": 2020.7500000071614
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3261/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.799180327869
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3244/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.76912568306
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000072",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.7607388968033
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3263/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.801912568306
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S3242/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.766393442623
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000074",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.7632069829526
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000071",
+                                        "node_attrs": {
+                                          "div": 0.0004692112816612592,
+                                          "num_date": {
+                                            "value": 2020.7502554050309
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000068",
+                                    "node_attrs": {
+                                      "div": 0.0004692112816612592,
+                                      "num_date": {
+                                        "value": 2020.7372337111738
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2911/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0004692112816612593,
+                                                  "num_date": {
+                                                    "value": 2020.7609289617487
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2909/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.7609289617487
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000077",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.7425217818795
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2910/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125934,
+                                                  "num_date": {
+                                                    "value": 2020.7609289617487
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2904/2020",
+                                                "node_attrs": {
+                                                  "div": 0.0004692112816612593,
+                                                  "num_date": {
+                                                    "value": 2020.7581967213114
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000078",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.7480580392385
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000076",
+                                        "node_attrs": {
+                                          "div": 0.0004692112816612592,
+                                          "num_date": {
+                                            "value": 2020.7425217818795
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2900/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.7527322404371
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2898/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.7527322404371
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000080",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.7527322475985
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2886/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.7445355191257
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "hCoV-19/USA/WA-S2887/2020",
+                                                "node_attrs": {
+                                                  "div": 0.00046921128166125923,
+                                                  "num_date": {
+                                                    "value": 2020.7445355191257
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000081",
+                                            "node_attrs": {
+                                              "div": 0.0004692112816612592,
+                                              "num_date": {
+                                                "value": 2020.744535526287
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000079",
+                                        "node_attrs": {
+                                          "div": 0.0004692112816612592,
+                                          "num_date": {
+                                            "value": 2020.7347069940251
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000075",
+                                    "node_attrs": {
+                                      "div": 0.0004692112816612592,
+                                      "num_date": {
+                                        "value": 2020.7218302701172
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000067",
+                                "node_attrs": {
+                                  "div": 0.0004692112816612592,
+                                  "num_date": {
+                                    "value": 2020.7087148114033
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000056",
+                            "node_attrs": {
+                              "div": 0.0004692112816612592,
+                              "num_date": {
+                                "value": 2020.5633875222036
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000031",
+                        "node_attrs": {
+                          "div": 0.0003685197291289771,
+                          "num_date": {
+                            "value": 2020.1959241730394
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000028",
+                    "node_attrs": {
+                      "div": 0.000301568619165841,
+                      "num_date": {
+                        "value": 2019.916763346411
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000021",
+                "node_attrs": {
+                  "div": 0.00023446319490248913,
+                  "num_date": {
+                    "value": 2019.4888631779595
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000019",
+            "node_attrs": {
+              "div": 6.689825592991285e-05,
+              "num_date": {
+                "value": 2018.9313449056106
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000016",
+        "node_attrs": {
+          "div": 2.0165043895585024e-22,
+          "num_date": {
+            "value": 2018.762626904478
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000004",
+    "node_attrs": {
+      "div": 0,
+      "num_date": {
+        "value": 2018.7430686854066
+      }
+    }
+  },
+  "version": "v2"
+}
